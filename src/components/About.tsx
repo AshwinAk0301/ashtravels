@@ -43,7 +43,7 @@ export default function About() {
               We Are The Best Cab &amp; Call Driver Service in Chennai
             </h2>
             <p className="text-slate-500 mb-3 md:mb-4 text-sm md:text-base">
-              ASHWIN CABS AND CALL DRIVERS is a premier transportation service
+              ASHWIN TRAVELS is a premier transportation service
               provider in Chennai. We offer reliable, safe, and professional
               driving services for all your travel needs.
             </p>

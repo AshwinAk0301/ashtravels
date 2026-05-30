@@ -1,7 +1,7 @@
 const testimonials = [
   {
     stars: 5,
-    text: "Excellent service! The driver was punctual, professional, and very courteous. I use Ashwin Cabs regularly for my airport transfers. Highly recommended!",
+    text: "Excellent service! The driver was punctual, professional, and very courteous. I use Ashwin Travels regularly for my airport transfers. Highly recommended!",
     name: "Rajesh Kumar",
     role: "Regular Customer",
   },

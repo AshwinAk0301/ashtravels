@@ -13,7 +13,7 @@ export default function Footer() {
             >
               <i className="fas fa-taxi text-sky-400 text-xl md:text-2xl"></i>
               <span>
-                ASHWIN <strong className="text-sky-400">CABS</strong>
+                ASHWIN <strong className="text-sky-400">TRAVELS</strong>
               </span>
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-5">
@@ -104,7 +104,7 @@ export default function Footer() {
 
         <div className="text-center py-5 md:py-6">
           <p className="text-white/50 text-xs md:text-sm">
-            &copy; 2026 ASHWIN CABS AND CALL DRIVERS. All Rights Reserved.
+            &copy; 2026 ASHWIN TRAVELS. All Rights Reserved.
           </p>
         </div>
       </div>

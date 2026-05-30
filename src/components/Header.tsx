@@ -41,7 +41,7 @@ export default function Header() {
         <Link href="#home" className="flex items-center gap-2 text-lg md:text-xl font-bold no-underline">
           <i className="fas fa-taxi text-blue-600 text-xl md:text-2xl"></i>
           <span className="text-slate-800">
-            ASHWIN <strong className="text-blue-600">CABS</strong>
+            ASHWIN <strong className="text-blue-600">TRAVELS</strong>
           </span>
         </Link>
 

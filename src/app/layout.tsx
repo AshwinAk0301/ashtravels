@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "devops app",
+  title: "Ashwin Travels | Chennai",
   description:
     "Professional cab service and call drivers in Chennai. Airport pickup & drop, outstation trips, local trips, and 24/7 call driver service.",
   keywords:
