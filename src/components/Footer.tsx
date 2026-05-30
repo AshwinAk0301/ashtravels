@@ -84,11 +84,11 @@ export default function Footer() {
             <ul className="space-y-2.5 md:space-y-3">
               <li className="flex items-center gap-2.5 text-white/60 text-sm">
                 <i className="fas fa-phone text-sky-400 w-4 text-xs"></i>
-                +91 99620 00056
+                +91 99620 00026
               </li>
               <li className="flex items-center gap-2.5 text-white/60 text-sm">
                 <i className="fab fa-whatsapp text-sky-400 w-4 text-xs"></i>
-                +91 99620 00056
+                +91 99620 00026
               </li>
               <li className="flex items-center gap-2.5 text-white/60 text-sm break-all">
                 <i className="fas fa-envelope text-sky-400 w-4 text-xs shrink-0"></i>

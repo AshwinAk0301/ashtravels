@@ -1,7 +1,7 @@
 "use client";
 
-const WHATSAPP_NUMBER = "919962000056";
-const PHONE_NUMBER = "+919962000056";
+const WHATSAPP_NUMBER = "919962000026";
+const PHONE_NUMBER = "+919962000026";
 
 export default function BookingForm() {
   return (

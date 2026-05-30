@@ -7,7 +7,7 @@ const contactInfo = [
   {
     icon: "fas fa-phone",
     title: "Phone",
-    lines: ["+91 99620 00056"],
+    lines: ["+91 99620 00026"],
   },
   {
     icon: "fas fa-envelope",
